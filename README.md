@@ -1,1 +1,2 @@
-# 2g2t
+# Estudo Segundo Trimestre
+Thales - 31
